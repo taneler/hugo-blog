@@ -1,0 +1,3 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://ghproxy.org/https://github.com/nanxiaobei/hugo-paper
