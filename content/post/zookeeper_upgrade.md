@@ -2,7 +2,7 @@
 title = 'Zookeeper 版本升级'
 date = 2024-07-10T14:57:05+08:00
 draft = false
-slug = 1fc9fcbc-1454-4cef-bb14-151322ed496f
+slug = '1fc9fcbc-1454-4cef-bb14-151322ed496f'
 +++
 
 Zookeeper 集群如果是 3 个节点以上的集群，那么可以采用不停业务滚动升级的方式进行版本升级，先对 `follower` 节点进行升级，最后对 `leader` 节点进行升级，可以使用以下命令查询当前节点状态。
