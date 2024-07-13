@@ -1,7 +1,8 @@
 +++
 title = 'RustDesk 自托管服务部署'
 date = 2024-07-14T02:57:21+08:00
-draft = true
+draft = false
+slug = '4edc8217-a595-43b9-af04-b860cc82a7c1'
 +++
 
 ## 说明
