@@ -65,10 +65,10 @@ cat id_ed25519.pub
 
 会输出一串字符串，那就是我们的 `Key`。
 
-![image-20240714025818878](https://s3.kubedevops.cn/s3/image-20240714025818878.png)
+![image-20240714025818878](https://blog.kubedevops.cn/upload/2024/07/1649a2ae1b80f14f514028388642fa58.png)
 
 ## 客户端配置
 
 打开 RustDesk 客户端，进入到 ID/中继服务器，填写上自己的服务器信息以及前面获取的 `Key` 即可。
 
-![image-20240714030010626](https://s3.kubedevops.cn/s3/image-20240714030010626.png)
+![image-20240714030010626](https://blog.kubedevops.cn/upload/2024/07/bc506964d85e1aec3190991f8b8abee7.png)
